@@ -16,7 +16,7 @@ Exploration des habitudes des clients récurrents et de leur contribution aux re
 Exclusion des données erronées ou non pertinentes.
 Utilisation de formules conditionnelles et de méthodes de transformation des données pour assurer la qualité des données analysées.
 ####  Visualisation des Données
-Création de visualisations claires et informatives à l'aide de Tableau ou Power BI, en se concentrant sur les questions spécifiques du PDG et du CMO.
+Création de visualisations claires et informatives à l'aide de Tableau, en se concentrant sur les questions spécifiques du PDG et du CMO.
 #### Présentation et Insights
 Développement d'un script pour présenter les résultats et insights de manière concise et pertinente.
 Focus sur l'expansion de l'entreprise et identification des opportunités lucratives.
